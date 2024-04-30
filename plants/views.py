@@ -1,4 +1,3 @@
-# isort: skip_file
 from helpers.views import BaseAPIView
 
 from .managers import BasePlantsManager
